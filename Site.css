@@ -1,0 +1,35 @@
+body{
+	background-color: dodgerblue;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Roboto Slab', serif;
+}
+.center{
+	text-align: center;
+}
+.jumbotronblue{
+	text-align: center;
+	background-color: darkblue;
+}
+.jumbotron{
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+#white{
+	color: white;
+	font-size: 100px;
+	font-family: 'Roboto Slab', serif;
+}
+#graphic{
+	font-size: 50px;
+}
+.item-active img{
+	height: 600px;
+}
+.secondaryBack {
+	background-color: linen;
+}
+.AboutMe {
+	font-size: 30px;
+	font-family: 'Lato', sans-serif;
+}
